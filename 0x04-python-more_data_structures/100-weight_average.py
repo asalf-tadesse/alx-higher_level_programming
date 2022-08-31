@@ -10,4 +10,3 @@ def weight_average(my_list=[]):
             down += values[1]
         result = up / down
     return result
-
